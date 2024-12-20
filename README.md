@@ -26,5 +26,6 @@ https://github.com/E-beep-web/cube-game.git
 
 
  License
+ 
 This project is licensed under the MIT License.
 
