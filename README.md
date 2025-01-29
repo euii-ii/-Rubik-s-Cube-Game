@@ -22,6 +22,7 @@ JavaScript: Logic for cube manipulation, user interaction, and feature integrati
 📦 Installation
 Clone this repository:
 Copy code
+
 https://github.com/E-beep-web/cube-game.git
 
 
