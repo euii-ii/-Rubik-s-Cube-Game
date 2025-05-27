@@ -311,7 +311,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
   <p>🧩 <strong>Master the Cube, Master the Mind</strong> 🧩</p>
-  <p>Built with ❤️ by <a href="https://github.com/E-beep-web">E-beep-web</a></p>
+  <p>Built with ❤️ by <a href="(https://github.com/euii-ii/-Rubik-s-Cube-Game.git)">euii-ii</a></p>
   <p>⭐ Star this repo if you love cubing!</p>
   <p><em>Join thousands of cubers worldwide in the ultimate puzzle experience</em></p>
 </div>
