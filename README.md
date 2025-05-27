@@ -2,6 +2,11 @@
 
 > A modern web-based 3D Rubik's Cube simulator with advanced solving features
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 Welcome to the **Rubik's Cube Game** - a fully interactive web-based 3D Rubik's Cube simulator! Master the classic 3x3 puzzle with modern features, intuitive controls, and comprehensive learning tools. Perfect for beginners learning their first solve or speedcubers practicing advanced algorithms.
 
 ## ✨ Features
